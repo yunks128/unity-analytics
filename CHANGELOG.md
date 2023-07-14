@@ -26,8 +26,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
         - Example: [https://55j2i6e704.execute-api.us-west-2.amazonaws.com/sdap-dev/timeSeriesSpark?ds=MUR25-JPL-L4-GLOB-v4.2\_analysed\_sst&minLon=-77.0&minLat=35.0&maxLon=-70.0&maxLat=42.0&startTime=2018-01-01T00:00:00Z&endTime=2018-12-31T00:00:00Z](https://55j2i6e704.execute-api.us-west-2.amazonaws.com/sdap-dev/timeSeriesSpark?ds=MUR25-JPL-L4-GLOB-v4.2_analysed_sst&minLon=-77.0&minLat=35.0&maxLon=-70.0&maxLat=42.0&startTime=2018-01-01T00:00:00Z&endTime=2018-12-31T00:00:00Z)
 - EPIC: `Regrid Earth remote sensing data products`
     - [unity-analytics #55] Test BCDP application on laptop with `cwl-runner`
+        - [https://github.com/unity-sds/unity-analytics-bcdp/blob/main/examples/cmip6-intake-esm/cwl/process.cwl](https://github.com/unity-sds/unity-analytics-bcdp/blob/main/examples/cmip6-intake-esm/cwl/process.cwl)
     - [unity-analytics #44] Use U-SPS APIs to deploy the BCDP OGC application to ADES-HySDS
+        - [https://github.com/unity-sds/unity-analytics-bcdp/blob/main/examples/cmip6-intake-esm/cwl/process.cwl](https://github.com/unity-sds/unity-analytics-bcdp/blob/main/examples/cmip6-intake-esm/cwl/process.cwl)
     - [unity-analytics #63] Use U-SPS APIs to run the process step of BCDP OGC application on ADES-HySDS
+        - [https://github.com/unity-sds/unity-analytics-bcdp/blob/main/examples/cmip6-intake-esm/cwl/process.cwl](https://github.com/unity-sds/unity-analytics-bcdp/blob/main/examples/cmip6-intake-esm/cwl/process.cwl)
 
 --------
 
