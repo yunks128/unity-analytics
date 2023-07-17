@@ -18,9 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Epics:
 - EPIC: `Time series transformations through a Unity DAPA endpoint`
     - [unity-analytics #38] Design interface mechanism between Unity DAPA and SDAP deployed in MCP/EKS
-        - [https://github.com/unity-sds/unity-analytics-dapa/blob/devel/doc/openapi.yaml](https://github.com/unity-sds/unity-analytics-dapa/blob/devel/doc/openapi.yaml)
+        - [https://github.com/unity-sds/unity-analytics-dapa/blob/main/doc/openapi.yaml](https://github.com/unity-sds/unity-analytics-dapa/blob/main/doc/openapi.yaml)
     - [unity-analytics #49] Develop the interface between Unity DAPA and SDAP deployed in MCP/EKS
-        - [https://github.com/unity-sds/unity-analytics-dapa/tree/devel](https://github.com/unity-sds/unity-analytics-dapa/tree/devel)
+        - [https://github.com/unity-sds/unity-analytics-dapa/](https://github.com/unity-sds/unity-analytics-dapa/)
     - [unity-analytics #58] Package Process Mapper as Docker Container
     - [unity-analytics #57] Set up mock integration for SDAP Time Series API in AWS API Gateway
         - Example: [https://55j2i6e704.execute-api.us-west-2.amazonaws.com/sdap-dev/timeSeriesSpark?ds=MUR25-JPL-L4-GLOB-v4.2\_analysed\_sst&minLon=-77.0&minLat=35.0&maxLon=-70.0&maxLat=42.0&startTime=2018-01-01T00:00:00Z&endTime=2018-12-31T00:00:00Z](https://55j2i6e704.execute-api.us-west-2.amazonaws.com/sdap-dev/timeSeriesSpark?ds=MUR25-JPL-L4-GLOB-v4.2_analysed_sst&minLon=-77.0&minLat=35.0&maxLon=-70.0&maxLat=42.0&startTime=2018-01-01T00:00:00Z&endTime=2018-12-31T00:00:00Z)
